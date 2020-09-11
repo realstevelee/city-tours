@@ -9,7 +9,7 @@ export default class TourList extends Component {
     }
 
     removdTour = id => {
-        console.log(id)
+        //console.log(id)
     }
 
     render() {
